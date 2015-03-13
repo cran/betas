@@ -12,7 +12,7 @@ betas.lmr(fit.robust)   # fit.robust is a robust linear model
 ```
 
 ## Installation
-Installing from CRAN
+Installing from CRAN (http://cran.r-project.org/web/packages/betas/)
 ```r
 install.packages("betas")
 library(betas)
@@ -20,7 +20,7 @@ library(betas)
 or installing from GitHub
 ```r
 library(devtools)
-install_github("andreaphsz/betas.git")
+install_github("andreaphsz/betas")
 library(betas)
 ```
 
